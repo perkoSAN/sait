@@ -1,0 +1,136 @@
+body {
+    background: #4F4A41;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0px 0px;
+    margin-top: -17px;
+}
+
+#header {
+    background: #FBEEC1;
+    width: 100%;
+    height: auto;
+    margin: 0px 0;
+}
+#container {
+   
+    background: #FBEEC1;
+    margin: 0px 0px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+
+}
+
+#navigation {
+    background: #659DBD;
+    width: 100%;
+    height: 50px;
+    margin: 0px 0;
+}
+
+#sidebar {
+    background: #659DBD;
+    float: left;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+
+}
+
+#content {
+    background: #DCDCDC;
+    float: left;
+    width: 100%;
+    height: auto;
+
+}
+
+#clear {
+    clear: both;
+}
+
+#footer {
+   background: #FBEEC1;
+   width: 100%;
+   height: 40px;
+   margin: 0px 0;
+}
+.img1
+{
+    width: 100%;
+    height: auto;
+}
+ .image-container {
+    position: relative;
+ }
+.a1
+{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+}
+.h2
+{
+    padding: 15px 0;
+}
+
+.h3
+{
+   font-size:  20px;
+   text-align: left;
+   margin: 0 20px;
+   font-weight: normal;
+}
+.Zag
+{
+    font-size: 30px;
+    text-align: left;
+    margin-left: 70px;
+}
+.h6
+{
+    font-size: 13px;
+    margin: 0 0;
+    font-weight: normal;
+}
+.li1
+{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+}
+.h5
+{
+    text-align: center;
+    margin-left: 15px;
+    font-size: 20px;
+}
+.a2
+{
+   text-decoration: none;
+   font-size: 17px;
+   color: #4F4A41;
+   
+}
+#author-image {
+    float: left;
+    height: auto;
+    width: auto;
+    border: 1px solid #d9d9d9;
+    margin-right:20px;
+    padding:5px;
+    margin: 0 20px;
+    }
+
+.table1
+{
+    font-size: 20px;
+}    
+.b1
+{
+    color: green;
+}
